@@ -1,0 +1,7 @@
+com/example/shoppingcart/repository/ProductRepository.class
+com/example/shoppingcart/controller/CartController.class
+com/example/shoppingcart/model/CartItem.class
+com/example/shoppingcart/repository/CartRepository.class
+com/example/shoppingcart/controller/ProductController.class
+com/example/shoppingcart/ShoppingcartApplication.class
+com/example/shoppingcart/model/Product.class

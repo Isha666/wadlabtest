@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Employee Database Servlet</title></head>
+<body>
+  <h2>Employee Database Application</h2>
+  <h3>Add Employee</h3>
+  <form action="employee" method="post">
+    <label>ID: <input type="number" name="id" required></label><br><br>
+    <label>Name: <input type="text" name="name" required></label><br><br>
+    <label>Age: <input type="number" name="age" required></label><br><br>
+    <button type="submit">Add Employee</button>
+  </form>
+  <h3>View Employees</h3>
+  <form action="employee" method="get">
+    <button type="submit">Show All Employees</button>
+  </form>
+</body>
+</html>
